@@ -54,8 +54,10 @@ The website is designed to offer a clean reading and writing experience, focusin
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/your-username/blogging-website-frontend.git
+
+---
+
 ## Project Preview
-![Blogging Website Screenshot]
-(<img width="1919" height="909" alt="Screenshot 2025-10-28 015707" src="https://github.com/user-attachments/assets/46d7f9b2-f1c4-4948-9727-19aab71e9cc8" />)
+<img width="1919" height="909" alt="Screenshot 2025-10-28 015707" src="https://github.com/user-attachments/assets/46d7f9b2-f1c4-4948-9727-19aab71e9cc8" />
 
 <img width="1676" height="914" alt="Screenshot 2025-10-28 015729" src="https://github.com/user-attachments/assets/0a228f46-fc4a-4ee5-b752-e47bec6f4c55" />
