@@ -8,7 +8,7 @@ let posts = [
         title: "How to Learn JavaScript",
         content: "Start with basics, practice daily, and build small projects.",
         category: "tech",
-        author: "Jane Doe",
+        author: "N Panthoiba Singha",
         image: "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
         createdAt: new Date('2023-01-01').toISOString()
     },
@@ -16,7 +16,7 @@ let posts = [
         title: "Best Travel Destinations",
         content: "Japan, Italy, and New Zealand are amazing places to visit.",
         category: "travel",
-        author: "John Smith",
+        author: "Twinkle Sonowal",
         image: "https://images.unsplash.com/photo-1500835556837-99ac94a94552?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
         createdAt: new Date('2023-01-15').toISOString()
     },
@@ -24,7 +24,7 @@ let posts = [
         title: "Easy Homemade Pizza",
         content: "Just flour, yeast, tomatoes, and cheese. Bake at 200°C for 15 mins.",
         category: "food",
-        author: "Alice Johnson",
+        author: "Sudarsana Mahanta",
         image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
         createdAt: new Date('2023-02-01').toISOString()
     }
